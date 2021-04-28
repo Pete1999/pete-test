@@ -1,1 +1,3 @@
 # pete-test
+
+Learning git. 
